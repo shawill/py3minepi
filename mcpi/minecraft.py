@@ -1,6 +1,6 @@
 from .connection import Connection
 from .vec3 import Vec3
-from .event import BlockEvent
+from .event import BlockEvent, ChatEvent
 from .block import Block
 import math
 from .util import flatten
